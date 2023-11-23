@@ -1,0 +1,4 @@
+*.go text
+*.mod text
+*.sum text
+
